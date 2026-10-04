@@ -1,4 +1,4 @@
 # AIrepo
 this is for learing
-author - abhishek dixit
+author - abhishek dixit(AIdemo)
 css
